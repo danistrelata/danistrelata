@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danistrelata
-- 👀 I’m interested in coding, math, science and movies.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
+- 👀 Interested in coding, math, physics, and music.
+- 🌱 Currently into ML/AI (neural nets, deep learning, vibe coding agents etc.).
 - 📫 How to reach me danistrelatav2@gmail.com
 
 <!---
