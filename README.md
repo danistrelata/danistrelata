@@ -24,5 +24,3 @@ Aiming for top CS / AI programs and eventually research or engineering roles at 
 - X/Twitter: [@danisthedev](https://x.com/danisthedev)
 
 *Open to interesting opportunities, research programs, and collaborations in AI / robotics.*
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danistrelata&show_icons=true&theme=transparent)
